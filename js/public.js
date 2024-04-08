@@ -1,6 +1,6 @@
-$(".yu_language").on("click", function() {
-    $(".yu_language_div").slideToggle();
-})
+// $(".yu_language").on("click", function() {
+//     $(".yu_language_div").slideToggle();
+// })
 
 
 $(function() {
