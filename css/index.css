@@ -37,7 +37,7 @@
 
 .yu_banner .swiper-pagination-bullet-active {
     opacity: 1;
-    background-color: #47A936;
+    background-color: #9a3d37;
 }
 
 .yu_banner .swiper-slide a .yu_1200 {
@@ -94,7 +94,7 @@
     width: 100%;
     font-size: 75px;
     font-weight: bold;
-    color: #006f5f;
+    color: #9a3d37;
     display: flex;
     align-items: center;
 }
@@ -106,14 +106,14 @@
 .home_about .about_jianjie {
     width: 100%;
     font-size: 35px;
-    color: #006f5f;
+    color: #9a3d37;
     margin-bottom: 24px;
 }
 
 .home_about .about_text {
     width: 100%;
     font-size: 16px;
-    color: #777;
+    color: #111;
     line-height: 26px;
 }
 
@@ -155,13 +155,13 @@
     font-size: 32px;
     font-weight: bold;
     margin-bottom: 15px;
-    color: #006f5f;
+    color: #9a3d37;
 }
 
 .action_img .action_l .pa2 {
     width: 100%;
     font-size: 20px;
-    color: #777;
+    color: #111;
     line-height: 36px;
 }
 
@@ -246,7 +246,7 @@
     font-size: 20px;
     font-weight: 500;
     margin-bottom: 12px;
-    color: #006f5f;
+    color: #9a3d37;
 }
 
 .home_news a .news_l .news_jianjie {
@@ -254,14 +254,14 @@
     font-size: 30px;
     font-weight: 500;
     margin-bottom: 22px;
-    color: #006f5f;
+    color: #9a3d37;
 }
 
 .home_news a .news_l .news_text {
     width: 100%;
     font-size: 20px;
     font-weight: 400;
-    color: #777;
+    color: #111;
     line-height: 36px;
 }
 
@@ -320,8 +320,8 @@
 .home_news .swiper-pagination-bullet-active {
     width: 14px;
     height: 14px;
-    border: 1px solid #47A936;
-    background-color: #47A936;
+    border: 1px solid #9a3d37;
+    background-color: #9a3d37;
 }
 
 .application {
@@ -380,7 +380,7 @@
 .yu_cpzh a .p2 {
     width: 100%;
     font-size: 16px;
-    color: #777;
+    color: #111;
     line-height: 36px;
 }
 

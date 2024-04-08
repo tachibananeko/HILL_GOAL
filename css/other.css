@@ -31,25 +31,25 @@
     font-size: 12px;
     display: flex;
     align-items: center;
-    color: #777777;
+    color: #9a3d37;
 }
 
 .other_mbx a i {
     font-size: 14px;
-    color: #777777;
+    color: #9a3d37;
     margin-right: 5px;
 }
 
 .other_mbx .iconxiangyou {
     font-size: 14px;
-    color: #777777;
+    color: #9a3d37;
     margin: 0 5px;
 }
 
 /* 挑选 */
 .pro_tact {
     width: 100%;
-    border-bottom: 3px solid #006f5f;
+    border-bottom: 3px solid #9a3d37;
 }
 
 .pro_tact a {
@@ -65,7 +65,7 @@
 
 .pro_tact a:hover,
 .pro_tact .pro_tact_active {
-    background-color: #006f5f;
+    background-color: #9a3d37;
     color: #fff;
 }
 
@@ -185,7 +185,7 @@
 
 .list_table tr th {
     /*height: 38px;*/
-    background-color: #00a38b;
+    background-color: #9a3d37;
     font-size: 18px;
     color: #fff;
     padding: 16px 12px;
@@ -248,6 +248,7 @@
 /*}*/
 .contact_ul li img {
     width: 52px;
+    filter: grayscale(1);
 }
 
 .contact_ul li .contact_p {
@@ -260,7 +261,7 @@
 
 .contact_ul li .copntact_span {
     font-size: 18px;
-    color: #777;
+    color: #111;
     text-align: center;
 }
 
@@ -357,19 +358,19 @@
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    color: #006f5f;
+    color: #9a3d37;
 }
 
 .divs_title span {
     font-size: 22px;
-    color: #C4C4C4;
+    color: #232323;
     margin: 0 24px;
 }
 
 .divs_title p {
     font-size: 28px;
     font-weight: bold;
-    color: #C4C4C4;
+    color: #232323;
 }
 
 .application_divs .divs_text {
@@ -491,7 +492,7 @@
     font-size: 20px;
     font-weight: 500;
     margin-bottom: 12px;
-    color: #006f5f;
+    color: #9a3d37;
 }
 
 .home_news a .news_l .news_jianjie {
@@ -499,7 +500,7 @@
     font-size: 24px;
     font-weight: bold;
     margin-bottom: 22px;
-    color: #006f5f;
+    color: #9a3d37;
 }
 
 .home_news a .news_l .news_text {
@@ -570,8 +571,8 @@
 .home_news .swiper-pagination-bullet-active {
     width: 14px;
     height: 14px;
-    border: 1px solid #47A936;
-    background-color: #47A936;
+    border: 1px solid #9a3d37;
+    background-color: #9a3d37;
 }
 
 @media (max-width:900px) {
